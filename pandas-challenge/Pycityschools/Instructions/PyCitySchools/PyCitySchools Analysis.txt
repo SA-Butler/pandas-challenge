@@ -1,0 +1,8 @@
+PyCitySchools Analysis
+
+Conclusions from the Data Derived:
+
+1. Charter Schools have a higher % Overall Pass rate than the District Schools. 
+2. District schools tend to be greater in size than Charter schools
+3. The % Passing Math for the District Schools is significantly lower than the Charter Schools. 
+4. The budget per student figures do not indicate a trend with higher the budget, the better the overall % passing. Therefore indicating that purely monetary factors are not the most critical in success.
